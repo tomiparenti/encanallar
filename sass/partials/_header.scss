@@ -1,0 +1,8 @@
+header{
+    @include flex (row, space-around, center);
+    padding: $small;
+    border-bottom: 2px solid $primary;
+    .h1a{
+        max-width: 200px;
+    }
+}
