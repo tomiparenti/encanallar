@@ -1,6 +1,6 @@
 footer{
     @include flex (row, space-around, center);
     .info{
-        max-width: 200px;
+        color: $primary;
     }
 }
