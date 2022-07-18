@@ -1,7 +1,5 @@
 /* colores */
-$primary: #16457b;
-$secundary: #ffc107;
-$text-color: #16457b;
+
 
 /* espaciados */
 $large: 6rem;
@@ -17,3 +15,8 @@ $large: 5.2em;
 $medium: 2.2em;
 $base: 1.6em;
 $small: 1.4em;
+
+$map_color: (
+    "primary": #16457b,
+    "secundary": #ffc107,
+);
