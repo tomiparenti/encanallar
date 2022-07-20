@@ -1,8 +1,8 @@
-header{
+.header{
     @include flex (row, space-around, center);
     padding: $small;
     border-bottom: 2px solid primary;
         .h1{
-            color: map_get($map_color, secundary);
+            color: map-get($map_color,primary);
         }
 }
